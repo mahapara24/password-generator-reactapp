@@ -2,6 +2,13 @@
 
 This is a simple React application for generating random passwords.
 
+# Output
+
+
+![Screenshot from 2023-12-24 23-09-05](https://github.com/mahapara24/password-generator-reactapp/assets/92634034/8279ba80-0fc5-439a-b423-8755101c7cbc)
+
+
+
 ## Features
 
 - Generate strong and secure random passwords.
